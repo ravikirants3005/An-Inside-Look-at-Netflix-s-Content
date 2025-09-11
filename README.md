@@ -1,9 +1,3 @@
-# An-Inside-Look-at-Netflix's-Content
-
-Of course\! Here is a crazy, interactive, and explanatory README file for your Netflix content analysis project, based on the detailed work in your Jupyter Notebook.
-
------
-
 # 🎬 Netflix & Analyze: A Binge-Watcher's Guide to the Data 🎬
 
 ## 🍿 **Grab Your Popcorn, Data Nerds\!** 🍿
